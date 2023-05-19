@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "modestmining:shell"
+    },
+    {
+      "item": "modestmining:shell"
+    },
+
+    {
+      "tag": "forge:crops/onion"
+    },
+    {
+      "tag": "forge:milk"
+    }
+  ],
+  "result": {
+    "item": "delightfulmining:clam_chowder"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}

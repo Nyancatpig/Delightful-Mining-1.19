@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "farmersdelight:diamond_knife"
+  },
+  "addition": {
+    "tag": "modestmining:prismarite_pieces"
+  },
+  "result": {
+    "item": "delightfulmining:prismarite_knife"
+  }
+}

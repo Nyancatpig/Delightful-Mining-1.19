@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "farmersdelight:diamond_knife"
+  },
+  "addition": {
+    "tag": "modestmining:netherite_pieces"
+  },
+  "result": {
+    "item": "farmersdelight:netherite_knife"
+  }
+}

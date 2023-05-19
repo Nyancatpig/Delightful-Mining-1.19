@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "farmersdelight:golden_knife"
+  },
+  "addition": {
+    "tag": "modestmining:rosegold_pieces"
+  },
+  "result": {
+    "item": "delightfulmining:rosegold_knife"
+  }
+}

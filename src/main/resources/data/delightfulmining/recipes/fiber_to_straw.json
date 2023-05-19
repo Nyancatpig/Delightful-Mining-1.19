@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ss"
+  ],
+  "key": {
+    "s": {
+      "item": "modestmining:fiber"
+    }
+  },
+  "result": {
+    "item": "farmersdelight:straw"
+  }
+}
